@@ -18,16 +18,16 @@ It is definitely possible and let’s see the outcome on prediction vs actual an
 We are going to use 6 attributes that includes Sold To (Customer Buyer), Ship To (Ship to Customer), Material (Product), Price per Qty, Qty, Total Price.
 Here we are predicting the Price Per Qty for Customers.
 
-Libraries used:
+**Libraries used:**
 Numpy
 Pandas
 Matplotlib
 Scikit-learn: Machine learning Logistics Regression
 
-Conclusion:
+**Conclusion:**
 This gives us an idea that Machine Learning Supervised Learning can do wonders with data. However, it doesn’t give an accurate prediction to implement in the production system as Root mean squared error 222, so we need to reduce the error rate to get accurate prediction.  In the future, we can add more attributes to get less error rate in Prediction vs Actual. As a starting point, we can use Logistics Regression to test and check how it predicts with Actual vs Predicted values.  I will slowly build different models and will check which one is able to give fewer errors and make an accurate prediction.
-
-Steps to follow:
+**
+Steps to follow:**
 
 1. Download customer_data.csv file
 2. Download Customer Price Prediction.ipynb
