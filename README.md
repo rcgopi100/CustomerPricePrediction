@@ -22,10 +22,10 @@ Here we are predicting the Price Per Qty for Customers.
 Numpy
 Pandas
 Matplotlib
-Scikit-learn: Machine learning Logistics Regression
+Scikit-learn: Machine learning Linear Regression
 
 **Conclusion:**
-This gives us an idea that Machine Learning Supervised Learning can do wonders with data. However, it doesn’t give an accurate prediction to implement in the production system as Root mean squared error 222, so we need to reduce the error rate to get accurate prediction.  In the future, we can add more attributes to get less error rate in Prediction vs Actual. As a starting point, we can use Logistics Regression to test and check how it predicts with Actual vs Predicted values.  I will slowly build different models and will check which one is able to give fewer errors and make an accurate prediction.
+This gives us an idea that Machine Learning Supervised Learning can do wonders with data. However, it doesn’t give an accurate prediction to implement in the production system as Root mean squared error 222, so we need to reduce the error rate to get accurate prediction.  In the future, we can add more attributes to get less error rate in Prediction vs Actual. As a starting point, we can use Linear Regression to test and check how it predicts with Actual vs Predicted values.  I will slowly build different models and will check which one is able to give fewer errors and make an accurate prediction.
 **
 Steps to follow:**
 
